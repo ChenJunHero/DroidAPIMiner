@@ -1,0 +1,115 @@
+Landroid/telephony/TelephonyManager.getDeviceSoftwareVersion()Ljava/lang/String;
+Ljava/lang/StringBuilder.append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+Landroid/app/Activity.onCreate(Landroid/os/Bundle;)V
+Ljava/util/ArrayList.add(Ljava/lang/Object;)Z
+Landroid/util/Log.e(Ljava/lang/String; Ljava/lang/String;)I
+Ljava/io/BufferedReader.read([C)I
+Landroid/media/MediaRecorder.setVideoSource(I)V
+Landroid/location/LocationManager.getProviders(Z)Ljava/util/List;
+Landroid/database/Cursor.close()V
+Ljava/lang/StringBuilder.append(I)Ljava/lang/StringBuilder;
+Landroid/media/MediaRecorder.setVideoEncoder(I)V
+Ljava/lang/StringBuilder.append(Ljava/lang/Object;)Ljava/lang/StringBuilder;
+Ljava/lang/String.length()I
+Landroid/media/MediaRecorder.<init>()V
+Ljava/lang/RuntimeException.<init>(Ljava/lang/Throwable;)V
+Ljava/io/BufferedReader.close()V
+Ljava/net/Socket.getOutputStream()Ljava/io/OutputStream;
+Landroid/telephony/TelephonyManager.getDeviceId()Ljava/lang/String;
+Landroid/telephony/gsm/GsmCellLocation.getLac()I
+Ljava/io/BufferedReader.<init>(Ljava/io/Reader;)V
+Ljava/net/InetAddress.getByName(Ljava/lang/String;)Ljava/net/InetAddress;
+Landroid/telephony/TelephonyManager.getSimSerialNumber()Ljava/lang/String;
+Landroid/content/ContentProviderOperation.newInsert(Landroid/net/Uri;)Landroid/content/ContentProviderOperation$Builder;
+Ljava/lang/StringBuilder.append(D)Ljava/lang/StringBuilder;
+Ljava/net/UnknownHostException.getMessage()Ljava/lang/String;
+Landroid/net/wifi/WifiConfiguration.toString()Ljava/lang/String;
+Ljava/io/FileNotFoundException.getMessage()Ljava/lang/String;
+Landroid/content/OperationApplicationException.getMessage()Ljava/lang/String;
+Ljava/io/File.getAbsolutePath()Ljava/lang/String;
+Landroid/location/Location.getLatitude()D
+Ljava/net/Socket.close()V
+Landroid/content/ContentProviderOperation.newDelete(Landroid/net/Uri;)Landroid/content/ContentProviderOperation$Builder;
+Landroid/content/ContentProviderOperation$Builder.withValue(Ljava/lang/String; Ljava/lang/Object;)Landroid/content/ContentProviderOperation$Builder;
+Ljava/lang/System.loadLibrary(Ljava/lang/String;)V
+Ljava/lang/Process.waitFor()I
+Ljava/io/InputStreamReader.<init>(Ljava/io/InputStream;)V
+Landroid/util/Log.e(Ljava/lang/String; Ljava/lang/String; Ljava/lang/Throwable;)I
+Landroid/telephony/TelephonyManager.getNetworkOperatorName()Ljava/lang/String;
+Landroid/telephony/TelephonyManager.getNetworkOperator()Ljava/lang/String;
+Landroid/os/Bundle.get(Ljava/lang/String;)Ljava/lang/Object;
+Landroid/content/Intent.getAction()Ljava/lang/String;
+Landroid/database/Cursor.getString(I)Ljava/lang/String;
+Ljava/lang/String.substring(I)Ljava/lang/String;
+Ljava/io/FileOutputStream.<init>(Ljava/io/File;)V
+Ljava/lang/StringBuilder.toString()Ljava/lang/String;
+Landroid/telephony/SmsManager.sendTextMessage(Ljava/lang/String; Ljava/lang/String; Ljava/lang/String; Landroid/app/PendingIntent; Landroid/app/PendingIntent;)V
+Ljava/lang/StringBuilder.<init>()V
+Ljava/util/Arrays.toString([Ljava/lang/Object;)Ljava/lang/String;
+Landroid/content/ContentResolver.query(Landroid/net/Uri; [Ljava/lang/String; Ljava/lang/String; [Ljava/lang/String; Ljava/lang/String;)Landroid/database/Cursor;
+Landroid/util/Log.v(Ljava/lang/String; Ljava/lang/String;)I
+Landroid/os/RemoteException.getMessage()Ljava/lang/String;
+Landroid/telephony/TelephonyManager.getSubscriberId()Ljava/lang/String;
+Landroid/content/Intent.<init>(Ljava/lang/String; Landroid/net/Uri;)V
+Ljava/lang/Object.<init>()V
+Landroid/content/Intent.getExtras()Landroid/os/Bundle;
+Ljava/io/OutputStream.write([B)V
+Landroid/media/MediaRecorder.setAudioSource(I)V
+Landroid/content/ContentValues.<init>()V
+Ljava/lang/Runtime.exec([Ljava/lang/String;)Ljava/lang/Process;
+Landroid/telephony/gsm/SmsMessage.getMessageBody()Ljava/lang/String;
+Landroid/telephony/TelephonyManager.getCellLocation()Landroid/telephony/CellLocation;
+Landroid/content/ContentResolver.applyBatch(Ljava/lang/String; Ljava/util/ArrayList;)[Landroid/content/ContentProviderResult;
+Landroid/database/Cursor.getCount()I
+Landroid/media/MediaRecorder.start()V
+Landroid/media/MediaRecorder.prepare()V
+Landroid/content/ContentProviderOperation$Builder.withSelection(Ljava/lang/String; [Ljava/lang/String;)Landroid/content/ContentProviderOperation$Builder;
+Landroid/os/Environment.getExternalStorageState()Ljava/lang/String;
+Ljava/lang/NullPointerException.getMessage()Ljava/lang/String;
+Landroid/location/LocationManager.getLastKnownLocation(Ljava/lang/String;)Landroid/location/Location;
+Ljava/net/Socket.<init>(Ljava/net/InetAddress; I)V
+Landroid/media/MediaRecorder.setOutputFile(Ljava/lang/String;)V
+Landroid/media/MediaRecorder.setAudioEncoder(I)V
+Ljava/util/List.iterator()Ljava/util/Iterator;
+Landroid/content/BroadcastReceiver.<init>()V
+Landroid/content/ContentProviderOperation$Builder.build()Landroid/content/ContentProviderOperation;
+Ljava/lang/Integer.parseInt(Ljava/lang/String;)I
+Ljava/io/File.createTempFile(Ljava/lang/String; Ljava/lang/String; Ljava/io/File;)Ljava/io/File;
+Ljava/lang/StringBuffer.toString()Ljava/lang/String;
+Landroid/util/Log.i(Ljava/lang/String; Ljava/lang/String;)I
+Ljava/lang/StringBuffer.<init>()V
+Ljava/lang/String.getBytes()[B
+Landroid/app/Activity.<init>()V
+Landroid/telephony/gsm/GsmCellLocation.getCid()I
+Ljava/lang/NumberFormatException.getMessage()Ljava/lang/String;
+Landroid/os/Environment.getExternalStorageDirectory()Ljava/io/File;
+Landroid/location/Location.getLongitude()D
+Ljava/net/Socket.isConnected()Z
+Ljava/lang/String.equals(Ljava/lang/Object;)Z
+Landroid/database/Cursor.moveToNext()Z
+Ljava/util/Iterator.hasNext()Z
+Ljava/util/ArrayList.size()I
+Ljava/lang/String.substring(I I)Ljava/lang/String;
+Landroid/media/MediaRecorder.setOutputFormat(I)V
+Landroid/telephony/TelephonyManager.getCallState()I
+Ljava/util/ArrayList.<init>()V
+Ljava/lang/StringBuffer.append([C I I)Ljava/lang/StringBuffer;
+Landroid/database/Cursor.getColumnIndex(Ljava/lang/String;)I
+Landroid/telephony/gsm/SmsMessage.createFromPdu([B)Landroid/telephony/gsm/SmsMessage;
+Ljava/io/File.canWrite()Z
+Ljava/lang/Integer.toString(I)Ljava/lang/String;
+Ljava/io/IOException.getMessage()Ljava/lang/String;
+Ljava/lang/Process.getInputStream()Ljava/io/InputStream;
+Ljava/io/File.<init>(Ljava/io/File; Ljava/lang/String;)V
+Landroid/telephony/SmsManager.getDefault()Landroid/telephony/SmsManager;
+Landroid/net/Uri.parse(Ljava/lang/String;)Landroid/net/Uri;
+Landroid/content/ContentProviderOperation$Builder.withValueBackReference(Ljava/lang/String; I)Landroid/content/ContentProviderOperation$Builder;
+Ljava/lang/Runtime.getRuntime()Ljava/lang/Runtime;
+Landroid/net/wifi/WifiConfiguration.<init>()V
+Ljava/net/Socket.<init>(Ljava/lang/String; I)V
+Ljava/util/Iterator.next()Ljava/lang/Object;
+Ljava/net/InetSocketAddress.<init>[Detected remote address and IP port]
+Landroid/content/ContentResolver.query[content://sms]
+Ljava/lang/String.append[sdcard]
+Ljava/lang/StringBuilder.append[sdcard]
+Landroid/content/Intent.<init>[CALL]

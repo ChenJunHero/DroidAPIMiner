@@ -1,0 +1,576 @@
+Ljava/io/DataOutputStream.writeShort(I)V
+Landroid/os/Handler.<init>()V
+Ljava/util/List.toArray([Ljava/lang/Object;)[Ljava/lang/Object;
+Ljava/security/MessageDigest.update([B I I)V
+Landroid/content/ContentValues.put(Ljava/lang/String; Ljava/lang/Boolean;)V
+Ljava/lang/System.getProperty(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;
+Landroid/util/Log.w(Ljava/lang/String; Ljava/lang/String; Ljava/lang/Throwable;)I
+Ljava/lang/Thread.start()V
+Ljava/lang/StringBuilder.append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+Landroid/util/Log.e(Ljava/lang/String; Ljava/lang/String;)I
+Landroid/preference/CheckBoxPreference.setChecked(Z)V
+Landroid/media/MediaRecorder.setVideoSource(I)V
+Ljavax/crypto/Cipher.init(I Ljava/security/Key;)V
+Ljava/lang/Object.notify()V
+Landroid/view/View.setBackgroundDrawable(Landroid/graphics/drawable/Drawable;)V
+Landroid/content/SharedPreferences$Editor.putInt(Ljava/lang/String; I)Landroid/content/SharedPreferences$Editor;
+Landroid/app/Notification.setLatestEventInfo(Landroid/content/Context; Ljava/lang/CharSequence; Ljava/lang/CharSequence; Landroid/app/PendingIntent;)V
+Ljava/lang/StringBuilder.append(J)Ljava/lang/StringBuilder;
+Ljava/lang/StringBuilder.append(I)Ljava/lang/StringBuilder;
+Ljava/lang/String.getBytes()[B
+Landroid/app/Activity.getResources()Landroid/content/res/Resources;
+Landroid/content/Context.getPackageName()Ljava/lang/String;
+Landroid/os/Bundle.putString(Ljava/lang/String; Ljava/lang/String;)V
+Ljava/io/DataOutputStream.writeByte(I)V
+Ljavax/crypto/Cipher.getInstance(Ljava/lang/String;)Ljavax/crypto/Cipher;
+Ljava/io/IOException.<init>(Ljava/lang/String;)V
+Landroid/preference/EditTextPreference.setText(Ljava/lang/String;)V
+Ljava/lang/Integer.toString(I I)Ljava/lang/String;
+Ljava/lang/String.endsWith(Ljava/lang/String;)Z
+Ljava/net/HttpURLConnection.getHeaderField(Ljava/lang/String;)Ljava/lang/String;
+Ljava/io/DataOutputStream.writeDouble(D)V
+Landroid/hardware/Camera.startPreview()V
+Landroid/hardware/Camera.unlock()V
+Ljava/math/BigInteger.<init>(I [B)V
+Ljava/util/List.add(Ljava/lang/Object;)Z
+Ljava/util/List.size()I
+Landroid/content/SharedPreferences$Editor.putFloat(Ljava/lang/String; F)Landroid/content/SharedPreferences$Editor;
+Ljava/lang/StringBuilder.append(D)Ljava/lang/StringBuilder;
+Ljava/util/Collections.max(Ljava/util/Collection; Ljava/util/Comparator;)Ljava/lang/Object;
+Landroid/content/Context.getSystemService(Ljava/lang/String;)Ljava/lang/Object;
+Landroid/os/StatFs.getAvailableBlocks()I
+Landroid/location/Location.getLongitude()D
+Ljava/io/File.<init>(Ljava/lang/String;)V
+Ljava/io/File.toString()Ljava/lang/String;
+Landroid/app/AlertDialog$Builder.setTitle(Ljava/lang/CharSequence;)Landroid/app/AlertDialog$Builder;
+Landroid/graphics/BitmapFactory.decodeStream(Ljava/io/InputStream; Landroid/graphics/Rect; Landroid/graphics/BitmapFactory$Options;)Landroid/graphics/Bitmap;
+Landroid/hardware/Camera.setPreviewDisplay(Landroid/view/SurfaceHolder;)V
+Ljava/lang/Class.getCanonicalName()Ljava/lang/String;
+Landroid/widget/TextView.setGravity(I)V
+Ljava/util/List.remove(Ljava/lang/Object;)Z
+Landroid/hardware/Camera$Parameters.setPictureSize(I I)V
+Landroid/view/Display.getHeight()I
+Ljava/util/Collections.sort(Ljava/util/List; Ljava/util/Comparator;)V
+Ljava/lang/Object.wait(J)V
+Ljava/lang/Boolean.booleanValue()Z
+Ljava/util/List.removeAll(Ljava/util/Collection;)Z
+Landroid/preference/ListPreference.setOnPreferenceChangeListener(Landroid/preference/Preference$OnPreferenceChangeListener;)V
+Landroid/os/Bundle.keySet()Ljava/util/Set;
+Landroid/widget/ImageView.setImageDrawable(Landroid/graphics/drawable/Drawable;)V
+Landroid/util/Log.e(Ljava/lang/String; Ljava/lang/String; Ljava/lang/Throwable;)I
+Landroid/widget/RelativeLayout.setOnClickListener(Landroid/view/View$OnClickListener;)V
+Landroid/hardware/Camera.release()V
+Ljava/util/HashMap.put(Ljava/lang/Object; Ljava/lang/Object;)Ljava/lang/Object;
+Ljava/io/DataOutputStream.writeLong(J)V
+Landroid/app/Activity.onStop()V
+Landroid/app/Activity.onResume()V
+Landroid/os/Handler.removeCallbacks(Ljava/lang/Runnable;)V
+Landroid/net/NetworkInfo.getType()I
+Landroid/content/res/Resources.getDisplayMetrics()Landroid/util/DisplayMetrics;
+Landroid/app/Dialog.findViewById(I)Landroid/view/View;
+Ljava/io/File.length()J
+Landroid/view/SurfaceHolder.setType(I)V
+Lorg/json/JSONObject.<init>(Ljava/util/Map;)V
+Landroid/provider/Settings$Secure.getString(Landroid/content/ContentResolver; Ljava/lang/String;)Ljava/lang/String;
+Ljava/io/DataOutputStream.writeBoolean(Z)V
+Landroid/widget/LinearLayout.setBackgroundColor(I)V
+Landroid/widget/TextView.setTextColor(I)V
+Landroid/content/Context.getSharedPreferences(Ljava/lang/String; I)Landroid/content/SharedPreferences;
+Landroid/preference/PreferenceActivity.<init>()V
+Ljava/util/StringTokenizer.<init>(Ljava/lang/String;)V
+Landroid/content/Intent.getExtras()Landroid/os/Bundle;
+Ljava/lang/Object.getClass()Ljava/lang/Class;
+Landroid/database/Cursor.getColumnIndexOrThrow(Ljava/lang/String;)I
+Landroid/content/IntentFilter.addAction(Ljava/lang/String;)V
+Landroid/content/SharedPreferences$Editor.putLong(Ljava/lang/String; J)Landroid/content/SharedPreferences$Editor;
+Ljava/lang/String.split(Ljava/lang/String;)[Ljava/lang/String;
+Ljava/util/EventObject.<init>(Ljava/lang/Object;)V
+Landroid/provider/Settings$System.getString(Landroid/content/ContentResolver; Ljava/lang/String;)Ljava/lang/String;
+Landroid/widget/VideoView.stopPlayback()V
+Landroid/widget/RemoteViews.setTextViewText(I Ljava/lang/CharSequence;)V
+Landroid/content/ContentValues.put(Ljava/lang/String; Ljava/lang/Integer;)V
+Landroid/appwidget/AppWidgetManager.getInstance(Landroid/content/Context;)Landroid/appwidget/AppWidgetManager;
+Landroid/widget/Button.setOnClickListener(Landroid/view/View$OnClickListener;)V
+Landroid/os/Handler.post(Ljava/lang/Runnable;)Z
+Ljava/lang/String.replace(Ljava/lang/CharSequence; Ljava/lang/CharSequence;)Ljava/lang/String;
+Ljava/util/Map.remove(Ljava/lang/Object;)Ljava/lang/Object;
+Landroid/widget/RemoteViews.setOnClickPendingIntent(I Landroid/app/PendingIntent;)V
+Landroid/os/Looper.getMainLooper()Landroid/os/Looper;
+Landroid/preference/CheckBoxPreference.setOnPreferenceChangeListener(Landroid/preference/Preference$OnPreferenceChangeListener;)V
+Landroid/widget/Toast.show()V
+Landroid/media/MediaRecorder.setAudioEncoder(I)V
+Landroid/content/res/Resources.getDrawable(I)Landroid/graphics/drawable/Drawable;
+Landroid/util/Log.d(Ljava/lang/String; Ljava/lang/String;)I
+Landroid/app/Activity.onDestroy()V
+Ljava/lang/Integer.parseInt(Ljava/lang/String;)I
+Ljavax/crypto/spec/SecretKeySpec.<init>([B Ljava/lang/String;)V
+Ljava/util/LinkedList.<init>()V
+Landroid/content/Intent.getBundleExtra(Ljava/lang/String;)Landroid/os/Bundle;
+Ljava/lang/String.format(Ljava/lang/String; [Ljava/lang/Object;)Ljava/lang/String;
+Landroid/content/Context.openFileOutput(Ljava/lang/String; I)Ljava/io/FileOutputStream;
+Lorg/json/JSONObject.put(Ljava/lang/String; Ljava/lang/Object;)Lorg/json/JSONObject;
+Ljava/io/File.delete()Z
+Landroid/app/Notification.<init>(I Ljava/lang/CharSequence; J)V
+Ljava/lang/Integer.intValue()I
+Landroid/util/DisplayMetrics.<init>()V
+Landroid/content/Intent.hasExtra(Ljava/lang/String;)Z
+Ljava/lang/Thread.getDefaultUncaughtExceptionHandler()Ljava/lang/Thread$UncaughtExceptionHandler;
+Ljava/io/DataInputStream.readBoolean()Z
+Landroid/widget/LinearLayout.setGravity(I)V
+Landroid/widget/ImageButton.setOnClickListener(Landroid/view/View$OnClickListener;)V
+Landroid/webkit/WebSettings.setUserAgentString(Ljava/lang/String;)V
+Landroid/webkit/WebView.setWebViewClient(Landroid/webkit/WebViewClient;)V
+Lorg/json/JSONArray.getJSONObject(I)Lorg/json/JSONObject;
+Landroid/location/Location.getTime()J
+Landroid/webkit/WebView.loadDataWithBaseURL(Ljava/lang/String; Ljava/lang/String; Ljava/lang/String; Ljava/lang/String; Ljava/lang/String;)V
+Ljava/util/StringTokenizer.nextToken()Ljava/lang/String;
+Ljava/lang/StringBuilder.append(Z)Ljava/lang/StringBuilder;
+Landroid/os/SystemClock.elapsedRealtime()J
+Ljava/util/Date.<init>(J)V
+Ljava/util/Map.put(Ljava/lang/Object; Ljava/lang/Object;)Ljava/lang/Object;
+Landroid/app/Application.onLowMemory()V
+Landroid/preference/EditTextPreference.setOnPreferenceChangeListener(Landroid/preference/Preference$OnPreferenceChangeListener;)V
+Ljava/util/List.isEmpty()Z
+Ljava/net/HttpURLConnection.getResponseCode()I
+Landroid/widget/LinearLayout.addView(Landroid/view/View; Landroid/view/ViewGroup$LayoutParams;)V
+Landroid/content/Context.getString(I)Ljava/lang/String;
+Ljava/lang/Thread.<init>(Ljava/lang/Runnable;)V
+Ljava/lang/Object.<init>()V
+Ljava/lang/Thread.sleep(J)V
+Landroid/util/Log.i(Ljava/lang/String; Ljava/lang/String; Ljava/lang/Throwable;)I
+Ljava/lang/String.<init>([B Ljava/lang/String;)V
+Landroid/media/AudioManager.isMusicActive()Z
+Landroid/content/pm/PackageManager.checkPermission(Ljava/lang/String; Ljava/lang/String;)I
+Ljava/io/FileInputStream.<init>(Ljava/io/File;)V
+Landroid/app/Dialog.setContentView(I)V
+Landroid/preference/Preference.setOnPreferenceClickListener(Landroid/preference/Preference$OnPreferenceClickListener;)V
+Ljava/util/Timer.<init>()V
+Ljava/io/DataOutputStream.write([B)V
+Ljava/io/InputStreamReader.<init>(Ljava/io/InputStream;)V
+Landroid/widget/VideoView.setOnPreparedListener(Landroid/media/MediaPlayer$OnPreparedListener;)V
+Ljava/util/Map$Entry.getValue()Ljava/lang/Object;
+Landroid/content/Context.getFileStreamPath(Ljava/lang/String;)Ljava/io/File;
+Landroid/preference/PreferenceActivity.onCreate(Landroid/os/Bundle;)V
+Landroid/view/SurfaceView.onMeasure(I I)V
+Ljava/util/List.remove(I)Ljava/lang/Object;
+Ljunit/framework/Assert.assertEquals(I I)V
+Landroid/preference/CheckBoxPreference.isChecked()Z
+Ljava/util/Collections.emptyMap()Ljava/util/Map;
+Landroid/view/SurfaceView.<init>(Landroid/content/Context; Landroid/util/AttributeSet;)V
+Landroid/app/Dialog.<init>(Landroid/content/Context;)V
+Landroid/content/Intent.createChooser(Landroid/content/Intent; Ljava/lang/CharSequence;)Landroid/content/Intent;
+Landroid/os/StatFs.<init>(Ljava/lang/String;)V
+Ljava/lang/Class.desiredAssertionStatus()Z
+Ljava/util/Map.keySet()Ljava/util/Set;
+Landroid/hardware/Camera.getParameters()Landroid/hardware/Camera$Parameters;
+Lorg/json/JSONArray.put(Ljava/lang/Object;)Lorg/json/JSONArray;
+Ljava/io/DataOutputStream.<init>(Ljava/io/OutputStream;)V
+Landroid/widget/ImageView.setVisibility(I)V
+Landroid/view/View.setOnClickListener(Landroid/view/View$OnClickListener;)V
+Ljava/io/FileInputStream.<init>(Ljava/lang/String;)V
+Lorg/apache/http/client/methods/HttpPost.setEntity(Lorg/apache/http/HttpEntity;)V
+Ljava/util/StringTokenizer.hasMoreTokens()Z
+Landroid/media/MediaRecorder.setVideoEncoder(I)V
+Ljava/lang/reflect/Method.invoke(Ljava/lang/Object; [Ljava/lang/Object;)Ljava/lang/Object;
+Ljava/lang/String.length()I
+Landroid/content/Intent.setAction(Ljava/lang/String;)Landroid/content/Intent;
+Landroid/view/SurfaceView.<init>(Landroid/content/Context;)V
+Landroid/hardware/Camera.stopPreview()V
+Ljava/lang/RuntimeException.<init>(Ljava/lang/Throwable;)V
+Ljava/util/LinkedList.add(Ljava/lang/Object;)Z
+Ljava/io/DataOutputStream.writeInt(I)V
+Ljava/lang/Class.newInstance()Ljava/lang/Object;
+Ljava/io/File.getParentFile()Ljava/io/File;
+Landroid/content/Context.getContentResolver()Landroid/content/ContentResolver;
+Ljava/io/FileOutputStream.close()V
+Ljava/io/BufferedReader.<init>(Ljava/io/Reader;)V
+Landroid/widget/RemoteViews.<init>(Ljava/lang/String; I)V
+Landroid/media/AudioManager.getMode()I
+Landroid/view/View.invalidate()V
+Ljava/io/ByteArrayOutputStream.toByteArray()[B
+Landroid/view/MotionEvent.getAction()I
+Ljava/io/File.mkdir()Z
+Landroid/app/Activity.onPause()V
+Ljava/net/URLDecoder.decode(Ljava/lang/String;)Ljava/lang/String;
+Landroid/os/HandlerThread.<init>(Ljava/lang/String;)V
+Landroid/widget/RelativeLayout.addView(Landroid/view/View; I Landroid/view/ViewGroup$LayoutParams;)V
+Ljava/io/File.getAbsolutePath()Ljava/lang/String;
+Landroid/content/ContentValues.put(Ljava/lang/String; Ljava/lang/String;)V
+Ljava/net/HttpURLConnection.setInstanceFollowRedirects(Z)V
+Ljava/lang/IllegalArgumentException.<init>(Ljava/lang/String;)V
+Landroid/location/LocationManager.removeUpdates(Landroid/location/LocationListener;)V
+Landroid/media/MediaRecorder.setOnInfoListener(Landroid/media/MediaRecorder$OnInfoListener;)V
+Ljava/util/HashMap.remove(Ljava/lang/Object;)Ljava/lang/Object;
+Ljava/lang/RuntimeException.<init>(Ljava/lang/String; Ljava/lang/Throwable;)V
+Landroid/widget/VideoView.setVideoPath(Ljava/lang/String;)V
+Ljava/util/Timer.schedule(Ljava/util/TimerTask; Ljava/util/Date;)V
+Ljava/util/Date.<init>()V
+Landroid/preference/ListPreference.setEnabled(Z)V
+Ljava/lang/System.currentTimeMillis()J
+Landroid/content/Intent.setType(Ljava/lang/String;)Landroid/content/Intent;
+Landroid/view/SurfaceHolder.getSurface()Landroid/view/Surface;
+Landroid/content/SharedPreferences$Editor.putBoolean(Ljava/lang/String; Z)Landroid/content/SharedPreferences$Editor;
+Ljava/lang/ref/WeakReference.<init>(Ljava/lang/Object;)V
+Landroid/widget/VideoView.start()V
+Landroid/widget/VideoView.setOnCompletionListener(Landroid/media/MediaPlayer$OnCompletionListener;)V
+Ljava/lang/String.substring(I)Ljava/lang/String;
+Ljava/io/FileOutputStream.<init>(Ljava/io/File;)V
+Landroid/util/Log.d(Ljava/lang/String; Ljava/lang/String; Ljava/lang/Throwable;)I
+Landroid/os/Bundle.getSerializable(Ljava/lang/String;)Ljava/io/Serializable;
+Landroid/hardware/Camera.autoFocus(Landroid/hardware/Camera$AutoFocusCallback;)V
+Ljava/lang/StringBuilder.<init>()V
+Ljava/util/List.get(I)Ljava/lang/Object;
+Ljava/net/URLEncoder.encode(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;
+Landroid/widget/Toast.makeText(Landroid/content/Context; Ljava/lang/CharSequence; I)Landroid/widget/Toast;
+Landroid/webkit/WebSettings.getUserAgentString()Ljava/lang/String;
+Landroid/os/Handler.sendEmptyMessageDelayed(I J)Z
+Ljava/util/Locale.getLanguage()Ljava/lang/String;
+Landroid/media/MediaRecorder.setOnErrorListener(Landroid/media/MediaRecorder$OnErrorListener;)V
+Landroid/media/MediaRecorder.setAudioSource(I)V
+Landroid/widget/ImageView.getVisibility()I
+Landroid/content/Context.getApplicationContext()Landroid/content/Context;
+Landroid/os/Handler.<init>(Landroid/os/Looper;)V
+Ljava/util/LinkedList.size()I
+Ljava/lang/IllegalArgumentException.<init>()V
+Landroid/widget/RelativeLayout.<init>(Landroid/content/Context;)V
+Lorg/json/JSONArray.toString()Ljava/lang/String;
+Landroid/util/TypedValue.<init>()V
+Landroid/webkit/WebView.destroy()V
+Ljava/util/HashMap.get(Ljava/lang/Object;)Ljava/lang/Object;
+Landroid/content/SharedPreferences.getBoolean(Ljava/lang/String; Z)Z
+Landroid/hardware/Camera.setParameters(Landroid/hardware/Camera$Parameters;)V
+Ljava/lang/AssertionError.<init>()V
+Landroid/content/Intent.setData(Landroid/net/Uri;)Landroid/content/Intent;
+Landroid/widget/RelativeLayout$LayoutParams.<init>(I I)V
+Landroid/widget/RemoteViews.setImageViewResource(I I)V
+Landroid/location/Location.getLatitude()D
+Ljava/util/ArrayList.<init>(Ljava/util/Collection;)V
+Landroid/os/Bundle.getInt(Ljava/lang/String; I)I
+Landroid/widget/TextView.<init>(Landroid/content/Context;)V
+Landroid/net/Uri.getAuthority()Ljava/lang/String;
+Lorg/apache/http/HttpResponse.getStatusLine()Lorg/apache/http/StatusLine;
+Landroid/content/SharedPreferences.getFloat(Ljava/lang/String; F)F
+Landroid/app/Activity.onCreate(Landroid/os/Bundle;)V
+Landroid/app/Dialog.dismiss()V
+Landroid/widget/RelativeLayout.setVisibility(I)V
+Ljava/util/List.add(I Ljava/lang/Object;)V
+Ljava/lang/ref/WeakReference.get()Ljava/lang/Object;
+Ljava/lang/NullPointerException.<init>(Ljava/lang/String;)V
+Landroid/widget/VideoView.setVisibility(I)V
+Landroid/content/Context.getResources()Landroid/content/res/Resources;
+Landroid/util/AttributeSet.getAttributeBooleanValue(Ljava/lang/String; Ljava/lang/String; Z)Z
+Landroid/app/PendingIntent.getActivity(Landroid/content/Context; I Landroid/content/Intent; I)Landroid/app/PendingIntent;
+Landroid/app/AlertDialog.show()V
+Landroid/content/Intent.putExtra(Ljava/lang/String; Landroid/os/Bundle;)Landroid/content/Intent;
+Landroid/net/Uri.getHost()Ljava/lang/String;
+Ljava/util/Map.entrySet()Ljava/util/Set;
+Landroid/os/Environment.getExternalStorageDirectory()Ljava/io/File;
+Lorg/json/JSONObject.toString()Ljava/lang/String;
+Landroid/view/View.getVisibility()I
+Ljava/lang/Class.toString()Ljava/lang/String;
+Landroid/widget/VideoView.<init>(Landroid/content/Context;)V
+Landroid/os/Bundle.<init>()V
+Ljava/util/Iterator.hasNext()Z
+Ljava/lang/String.substring(I I)Ljava/lang/String;
+Lorg/apache/http/client/HttpClient.execute(Lorg/apache/http/client/methods/HttpUriRequest;)Lorg/apache/http/HttpResponse;
+Landroid/widget/ImageButton.setImageResource(I)V
+Landroid/hardware/Camera$Parameters.setPreviewSize(I I)V
+Ljava/io/DataOutputStream.writeFloat(F)V
+Landroid/content/SharedPreferences$Editor.commit()Z
+Ljava/util/Map.clear()V
+Ljava/util/Set.isEmpty()Z
+Landroid/location/Criteria.<init>()V
+Landroid/view/View$MeasureSpec.getMode(I)I
+Ljava/lang/Integer.toString(I)Ljava/lang/String;
+Ljava/lang/Class.forName(Ljava/lang/String;)Ljava/lang/Class;
+Ljava/lang/Object.toString()Ljava/lang/String;
+Landroid/content/res/Resources.getValue(Ljava/lang/String; Landroid/util/TypedValue; Z)V
+Landroid/webkit/WebView.invalidate()V
+Ljava/lang/Long.toString(J I)Ljava/lang/String;
+Landroid/content/Context.registerReceiver(Landroid/content/BroadcastReceiver; Landroid/content/IntentFilter;)Landroid/content/Intent;
+Landroid/media/MediaRecorder.setVideoSize(I I)V
+Ljava/lang/String.hashCode()I
+Lorg/json/JSONObject.<init>()V
+Landroid/appwidget/AppWidgetProvider.onReceive(Landroid/content/Context; Landroid/content/Intent;)V
+Ljava/io/BufferedReader.<init>(Ljava/io/Reader; I)V
+Ljava/util/HashMap.<init>()V
+Ljava/io/DataInputStream.readUnsignedShort()I
+[Lcom/google/ads/AdRequest$Gender.clone()Ljava/lang/Object;
+Lorg/apache/http/entity/ByteArrayEntity.<init>([B)V
+Landroid/app/AlertDialog$Builder.setNegativeButton(Ljava/lang/CharSequence; Landroid/content/DialogInterface$OnClickListener;)Landroid/app/AlertDialog$Builder;
+Landroid/os/Bundle.putSerializable(Ljava/lang/String; Ljava/io/Serializable;)V
+Landroid/app/Dialog.setTitle(Ljava/lang/CharSequence;)V
+Landroid/content/BroadcastReceiver.onReceive(Landroid/content/Context; Landroid/content/Intent;)V
+Landroid/app/Dialog.show()V
+Landroid/util/TypedValue.applyDimension(I F Landroid/util/DisplayMetrics;)F
+Lorg/apache/http/impl/client/DefaultHttpClient.<init>()V
+Ljavax/crypto/Cipher.getIV()[B
+Landroid/content/IntentFilter.<init>()V
+Ljava/io/Closeable.close()V
+Landroid/media/AudioManager.isSpeakerphoneOn()Z
+Landroid/webkit/WebSettings.setJavaScriptEnabled(Z)V
+Ljava/lang/Boolean.valueOf(Z)Ljava/lang/Boolean;
+Landroid/webkit/WebView.stopLoading()V
+Landroid/widget/VideoView.seekTo(I)V
+Ljava/lang/StringBuilder.<init>(Ljava/lang/String;)V
+Ljava/lang/StringBuilder.append(Ljava/lang/Object;)Ljava/lang/StringBuilder;
+Ljava/text/DateFormat.format(Ljava/util/Date;)Ljava/lang/String;
+Ljava/io/BufferedReader.readLine()Ljava/lang/String;
+Ljava/lang/Float.valueOf(Ljava/lang/String;)Ljava/lang/Float;
+Landroid/view/Display.getMetrics(Landroid/util/DisplayMetrics;)V
+Lorg/json/JSONArray.<init>(Ljava/lang/String;)V
+Landroid/content/Context.startActivity(Landroid/content/Intent;)V
+Landroid/hardware/Camera$Parameters.setPreviewFrameRate(I)V
+Landroid/preference/EditTextPreference.setSummary(Ljava/lang/CharSequence;)V
+Landroid/webkit/WebView.onMeasure(I I)V
+Landroid/app/AlertDialog.setMessage(Ljava/lang/CharSequence;)V
+Landroid/os/Vibrator.vibrate(J)V
+Landroid/graphics/Bitmap.getWidth()I
+Ljava/io/DataInputStream.readLong()J
+Ljava/lang/Float.parseFloat(Ljava/lang/String;)F
+Ljava/security/MessageDigest.getInstance(Ljava/lang/String;)Ljava/security/MessageDigest;
+Landroid/media/MediaRecorder.setProfile(Landroid/media/CamcorderProfile;)V
+Landroid/hardware/Camera.lock()V
+Ljava/util/LinkedList.clear()V
+Landroid/app/AlertDialog$Builder.create()Landroid/app/AlertDialog;
+Landroid/content/pm/PackageManager.getPackageInfo(Ljava/lang/String; I)Landroid/content/pm/PackageInfo;
+Landroid/net/Uri.toString()Ljava/lang/String;
+Landroid/widget/VideoView.pause()V
+Ljava/util/Locale.getCountry()Ljava/lang/String;
+Landroid/net/NetworkInfo.isConnected()Z
+Ljava/util/HashSet.<init>()V
+Ljava/lang/Long.longValue()J
+Landroid/app/AlertDialog.setTitle(Ljava/lang/CharSequence;)V
+Landroid/content/Intent.<init>(Ljava/lang/String;)V
+Ljava/lang/Thread.setDefaultUncaughtExceptionHandler(Ljava/lang/Thread$UncaughtExceptionHandler;)V
+Landroid/app/Service.stopSelf()V
+Landroid/appwidget/AppWidgetManager.updateAppWidget(Landroid/content/ComponentName; Landroid/widget/RemoteViews;)V
+Landroid/content/ContentResolver.insert(Landroid/net/Uri; Landroid/content/ContentValues;)Landroid/net/Uri;
+Landroid/app/Activity.onStart()V
+Landroid/view/View$MeasureSpec.getSize(I)I
+Ljava/io/ByteArrayOutputStream.<init>()V
+Landroid/webkit/WebView.setVisibility(I)V
+Landroid/content/Intent.getAction()Ljava/lang/String;
+Landroid/widget/RelativeLayout.<init>(Landroid/content/Context; Landroid/util/AttributeSet;)V
+Landroid/database/Cursor.getString(I)Ljava/lang/String;
+Landroid/widget/TextView.setText(Ljava/lang/CharSequence;)V
+Ljava/util/WeakHashMap.<init>()V
+Landroid/app/Service.<init>()V
+Landroid/media/MediaRecorder.setCamera(Landroid/hardware/Camera;)V
+Landroid/widget/RelativeLayout.addView(Landroid/view/View; Landroid/view/ViewGroup$LayoutParams;)V
+Landroid/net/Uri.getPath()Ljava/lang/String;
+Ljava/io/DataInputStream.readFully([B)V
+Ljava/io/File.exists()Z
+Landroid/webkit/WebView.getSettings()Landroid/webkit/WebSettings;
+Ljava/io/DataOutputStream.size()I
+Ljava/lang/Long.toString(J)Ljava/lang/String;
+Landroid/app/Activity.getWindowManager()Landroid/view/WindowManager;
+Landroid/content/res/Resources.getString(I)Ljava/lang/String;
+Landroid/location/LocationManager.getBestProvider(Landroid/location/Criteria; Z)Ljava/lang/String;
+Landroid/appwidget/AppWidgetProvider.<init>()V
+Landroid/preference/ListPreference.setEntries([Ljava/lang/CharSequence;)V
+Landroid/view/SurfaceView.<init>(Landroid/content/Context; Landroid/util/AttributeSet; I)V
+Ljava/lang/String.valueOf(Ljava/lang/Object;)Ljava/lang/String;
+Ljava/io/PrintStream.println(Ljava/lang/String;)V
+Landroid/widget/TextView.setBackgroundColor(I)V
+Ljava/lang/String.split(Ljava/lang/String; I)[Ljava/lang/String;
+Landroid/widget/ImageButton.setVisibility(I)V
+Ljava/util/Set.iterator()Ljava/util/Iterator;
+Landroid/media/MediaRecorder.start()V
+Landroid/webkit/WebView.<init>(Landroid/content/Context;)V
+Landroid/widget/LinearLayout.addView(Landroid/view/View; I I)V
+Landroid/media/MediaRecorder.prepare()V
+Landroid/content/Intent.setDataAndType(Landroid/net/Uri; Ljava/lang/String;)Landroid/content/Intent;
+Landroid/os/StatFs.getBlockSize()I
+Ljava/lang/Float.floatValue()F
+Landroid/widget/RelativeLayout.removeAllViews()V
+Landroid/app/Activity.getApplicationContext()Landroid/content/Context;
+Ljava/text/SimpleDateFormat.<init>(Ljava/lang/String;)V
+Ljava/util/LinkedList.isEmpty()Z
+Landroid/content/Context.sendBroadcast(Landroid/content/Intent;)V
+Lorg/json/JSONArray.length()I
+Ljava/lang/String.equalsIgnoreCase(Ljava/lang/String;)Z
+Ljava/lang/reflect/InvocationTargetException.getCause()Ljava/lang/Throwable;
+Landroid/widget/LinearLayout.bringToFront()V
+Ljava/net/HttpURLConnection.getInputStream()Ljava/io/InputStream;
+Ljava/lang/Class.getMethod(Ljava/lang/String; [Ljava/lang/Class;)Ljava/lang/reflect/Method;
+Landroid/content/pm/PackageManager.getReceiverInfo(Landroid/content/ComponentName; I)Landroid/content/pm/ActivityInfo;
+Landroid/util/AttributeSet.getAttributeValue(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;
+Ljava/net/HttpURLConnection.setRequestProperty(Ljava/lang/String; Ljava/lang/String;)V
+Ljava/lang/AssertionError.<init>(Ljava/lang/Object;)V
+Landroid/content/ComponentName.<init>(Landroid/content/Context; Ljava/lang/Class;)V
+Ljava/net/URL.openConnection()Ljava/net/URLConnection;
+Ljava/lang/Long.valueOf(J)Ljava/lang/Long;
+Ljava/io/DataInputStream.readUTF()Ljava/lang/String;
+Landroid/app/Application.<init>()V
+Landroid/view/Window.setFormat(I)V
+Landroid/media/AudioManager.setRingerMode(I)V
+Landroid/net/Uri.isHierarchical()Z
+Landroid/app/Activity.managedQuery(Landroid/net/Uri; [Ljava/lang/String; Ljava/lang/String; [Ljava/lang/String; Ljava/lang/String;)Landroid/database/Cursor;
+Lorg/json/JSONArray.<init>()V
+Ljava/lang/String.toUpperCase()Ljava/lang/String;
+Landroid/content/Intent.<init>(Landroid/content/Context; Ljava/lang/Class;)V
+Landroid/content/Intent.getStringExtra(Ljava/lang/String;)Ljava/lang/String;
+Landroid/util/Log.isLoggable(Ljava/lang/String; I)Z
+Landroid/media/MediaRecorder.setOutputFormat(I)V
+Landroid/app/Application.onCreate()V
+Ljava/util/ArrayList.<init>()V
+Landroid/preference/ListPreference.setValueIndex(I)V
+Landroid/view/Window.setFlags(I I)V
+[Lcom/google/ads/util/AdUtil$a.clone()Ljava/lang/Object;
+Ljava/io/DataOutputStream.writeUTF(Ljava/lang/String;)V
+Landroid/media/MediaRecorder.setPreviewDisplay(Landroid/view/Surface;)V
+Ljava/lang/Enum.valueOf(Ljava/lang/Class; Ljava/lang/String;)Ljava/lang/Enum;
+Ljava/util/Map.get(Ljava/lang/Object;)Ljava/lang/Object;
+Landroid/app/AlertDialog$Builder.setCancelable(Z)Landroid/app/AlertDialog$Builder;
+Landroid/app/PendingIntent.getService(Landroid/content/Context; I Landroid/content/Intent; I)Landroid/app/PendingIntent;
+Landroid/view/Display.getOrientation()I
+Ljava/lang/Exception.<init>(Ljava/lang/String;)V
+Landroid/widget/ImageView.bringToFront()V
+Landroid/media/MediaRecorder.stop()V
+Landroid/database/Cursor.moveToFirst()Z
+Landroid/preference/ListPreference.setEntryValues([Ljava/lang/CharSequence;)V
+Landroid/net/Uri.getScheme()Ljava/lang/String;
+Landroid/os/HandlerThread.start()V
+Ljava/io/File.mkdirs()Z
+Ljava/lang/String.indexOf(I)I
+Landroid/media/MediaRecorder.setMaxFileSize(J)V
+Lorg/apache/http/StatusLine.getStatusCode()I
+Ljava/lang/String.valueOf(I)Ljava/lang/String;
+Ljava/lang/Exception.getMessage()Ljava/lang/String;
+Landroid/app/NotificationManager.notify(I Landroid/app/Notification;)V
+Landroid/preference/Preference.setSummary(Ljava/lang/CharSequence;)V
+Landroid/app/AlertDialog$Builder.setMessage(Ljava/lang/CharSequence;)Landroid/app/AlertDialog$Builder;
+Landroid/util/Log.v(Ljava/lang/String; Ljava/lang/String;)I
+Landroid/app/AlertDialog$Builder.<init>(Landroid/content/Context;)V
+Landroid/content/Context.getPackageManager()Landroid/content/pm/PackageManager;
+Landroid/view/ViewGroup$LayoutParams.<init>(I I)V
+Landroid/app/Activity.onWindowFocusChanged(Z)V
+[Lcom/google/ads/AdRequest$ErrorCode.clone()Ljava/lang/Object;
+Landroid/app/Activity.getIntent()Landroid/content/Intent;
+Landroid/content/Intent.getIntExtra(Ljava/lang/String; I)I
+Landroid/view/View.getId()I
+Landroid/media/MediaRecorder.<init>()V
+Landroid/app/Dialog.requestWindowFeature(I)Z
+Ljava/io/DataOutputStream.close()V
+Ljava/net/URL.<init>(Ljava/lang/String;)V
+Landroid/media/AudioManager.getRingerMode()I
+Ljava/lang/Math.min(I I)I
+Ljava/lang/StringBuilder.append(C)Ljava/lang/StringBuilder;
+Landroid/webkit/WebView.getContext()Landroid/content/Context;
+Landroid/content/pm/PackageManager.resolveActivity(Landroid/content/Intent; I)Landroid/content/pm/ResolveInfo;
+Landroid/view/SurfaceHolder.addCallback(Landroid/view/SurfaceHolder$Callback;)V
+Landroid/content/SharedPreferences.edit()Landroid/content/SharedPreferences$Editor;
+Ljava/util/Map.isEmpty()Z
+Landroid/webkit/WebView.setWillNotDraw(Z)V
+Landroid/graphics/BitmapFactory$Options.<init>()V
+Ljava/util/Map$Entry.getKey()Ljava/lang/Object;
+Landroid/view/Window.addFlags(I)V
+Ljava/util/TimerTask.<init>()V
+Landroid/widget/RelativeLayout.addView(Landroid/view/View;)V
+Landroid/content/SharedPreferences.getLong(Ljava/lang/String; J)J
+Landroid/content/Intent.putExtra(Ljava/lang/String; I)Landroid/content/Intent;
+Ljava/util/Date.getTime()J
+Ljava/lang/StringBuilder.<init>(I)V
+Landroid/widget/ImageButton.<init>(Landroid/content/Context;)V
+Landroid/widget/LinearLayout.addView(Landroid/view/View;)V
+Ljava/lang/StringBuilder.length()I
+Landroid/content/SharedPreferences$Editor.putString(Ljava/lang/String; Ljava/lang/String;)Landroid/content/SharedPreferences$Editor;
+Landroid/content/Intent.getData()Landroid/net/Uri;
+Ljava/util/Collections.unmodifiableMap(Ljava/util/Map;)Ljava/util/Map;
+Landroid/widget/ImageButton.setPadding(I I I I)V
+Ljava/io/FileOutputStream.flush()V
+Landroid/widget/RelativeLayout.setBackgroundDrawable(Landroid/graphics/drawable/Drawable;)V
+Landroid/hardware/Camera$Parameters.getSupportedPreviewFrameRates()Ljava/util/List;
+Landroid/hardware/Camera.setPreviewCallback(Landroid/hardware/Camera$PreviewCallback;)V
+Landroid/webkit/WebViewClient.<init>()V
+Landroid/os/Handler.postDelayed(Ljava/lang/Runnable; J)Z
+Landroid/content/SharedPreferences.getInt(Ljava/lang/String; I)I
+Ljava/net/HttpURLConnection.connect()V
+Landroid/hardware/Camera$Parameters.getSupportedPictureSizes()Ljava/util/List;
+Landroid/content/Context.checkCallingOrSelfPermission(Ljava/lang/String;)I
+Landroid/content/Intent.<init>()V
+Ljava/lang/StringBuilder.toString()Ljava/lang/String;
+Landroid/media/MediaRecorder.setVideoFrameRate(I)V
+Ljava/util/Set.contains(Ljava/lang/Object;)Z
+Ljava/io/DataInputStream.<init>(Ljava/io/InputStream;)V
+Landroid/webkit/WebView.loadUrl(Ljava/lang/String;)V
+Ljava/lang/Throwable.getMessage()Ljava/lang/String;
+Landroid/content/Intent.<init>(Ljava/lang/String; Landroid/net/Uri;)V
+Landroid/hardware/Camera.open()Landroid/hardware/Camera;
+Landroid/net/Uri.getEncodedQuery()Ljava/lang/String;
+Landroid/view/WindowManager.getDefaultDisplay()Landroid/view/Display;
+Ljunit/framework/Assert.assertTrue(Z)V
+Landroid/app/AlertDialog.setButton(Ljava/lang/CharSequence; Landroid/content/DialogInterface$OnClickListener;)V
+Landroid/os/AsyncTask.<init>()V
+Landroid/content/ContentValues.<init>(I)V
+Ljava/util/Locale.getDefault()Ljava/util/Locale;
+Ljava/util/Set.add(Ljava/lang/Object;)Z
+Landroid/preference/Preference.getKey()Ljava/lang/String;
+Landroid/graphics/Bitmap.getHeight()I
+Landroid/content/ContentValues.put(Ljava/lang/String; Ljava/lang/Long;)V
+Landroid/webkit/WebViewClient.shouldOverrideUrlLoading(Landroid/webkit/WebView; Ljava/lang/String;)Z
+Landroid/widget/ImageButton.setBackgroundDrawable(Landroid/graphics/drawable/Drawable;)V
+Landroid/widget/LinearLayout.<init>(Landroid/content/Context;)V
+Ljava/io/InputStream.close()V
+Ljava/lang/Thread$UncaughtExceptionHandler.uncaughtException(Ljava/lang/Thread; Ljava/lang/Throwable;)V
+Landroid/widget/Button.setText(Ljava/lang/CharSequence;)V
+Landroid/location/LocationManager.getLastKnownLocation(Ljava/lang/String;)Landroid/location/Location;
+Landroid/hardware/Camera.takePicture(Landroid/hardware/Camera$ShutterCallback; Landroid/hardware/Camera$PictureCallback; Landroid/hardware/Camera$PictureCallback;)V
+Ljava/lang/Enum.<init>(Ljava/lang/String; I)V
+Ljava/lang/System.arraycopy(Ljava/lang/Object; I Ljava/lang/Object; I I)V
+Ljava/lang/Float.valueOf(F)Ljava/lang/Float;
+Ljavax/crypto/Cipher.doFinal([B)[B
+Landroid/media/MediaRecorder.setOutputFile(Ljava/lang/String;)V
+Ljava/util/List.iterator()Ljava/util/Iterator;
+Landroid/content/BroadcastReceiver.<init>()V
+Lorg/json/JSONObject.optString(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;
+Landroid/util/Log.w(Ljava/lang/String; Ljava/lang/String;)I
+Landroid/webkit/WebView.bringToFront()V
+Landroid/location/Location.getAccuracy()F
+Ljava/security/MessageDigest.digest()[B
+Landroid/content/pm/PackageManager.queryIntentActivities(Landroid/content/Intent; I)Ljava/util/List;
+Lorg/apache/http/entity/ByteArrayEntity.setContentType(Ljava/lang/String;)V
+Landroid/util/Log.i(Ljava/lang/String; Ljava/lang/String;)I
+Landroid/os/Bundle.getString(Ljava/lang/String;)Ljava/lang/String;
+Landroid/graphics/drawable/BitmapDrawable.<init>(Landroid/graphics/Bitmap;)V
+Ljava/util/Map.size()I
+Landroid/os/HandlerThread.getLooper()Landroid/os/Looper;
+Landroid/app/Activity.<init>()V
+Landroid/os/Handler.removeMessages(I)V
+Landroid/media/CamcorderProfile.get(I)Landroid/media/CamcorderProfile;
+Ljava/lang/String.equals(Ljava/lang/Object;)Z
+Lorg/apache/http/client/methods/HttpPost.<init>(Ljava/lang/String;)V
+Landroid/location/LocationManager.requestLocationUpdates(Ljava/lang/String; J F Landroid/location/LocationListener; Landroid/os/Looper;)V
+Ljava/util/Collections.max(Ljava/util/Collection;)Ljava/lang/Object;
+Landroid/app/Service.onStart(Landroid/content/Intent; I)V
+Ljava/lang/String.startsWith(Ljava/lang/String;)Z
+Landroid/content/SharedPreferences.getString(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;
+Ljava/lang/Integer.valueOf(I)Ljava/lang/Integer;
+Ljava/lang/String.toLowerCase()Ljava/lang/String;
+Ljava/lang/String.toString()Ljava/lang/String;
+Landroid/content/ActivityNotFoundException.getMessage()Ljava/lang/String;
+Landroid/media/MediaRecorder.reset()V
+Landroid/net/ConnectivityManager.getActiveNetworkInfo()Landroid/net/NetworkInfo;
+Landroid/appwidget/AppWidgetManager.updateAppWidget([I Landroid/widget/RemoteViews;)V
+Ljava/io/FileOutputStream.write([B)V
+Landroid/net/Uri.parse(Ljava/lang/String;)Landroid/net/Uri;
+Landroid/app/Activity.startActivity(Landroid/content/Intent;)V
+Ljava/util/LinkedList.get(I)Ljava/lang/Object;
+Ljava/lang/String.trim()Ljava/lang/String;
+Landroid/widget/VideoView.setOnErrorListener(Landroid/media/MediaPlayer$OnErrorListener;)V
+Ljava/util/LinkedList.iterator()Ljava/util/Iterator;
+Ljava/util/Iterator.next()Ljava/lang/Object;
+Landroid/view/View.setVisibility(I)V
+Ljava/lang/StringBuilder.append[http]
+Ljava/lang/StringBuilder.<init>[ls]
+Ljava/lang/String.<init>[http]
+Ljava/lang/String.<init>[ls]
+Ljava/lang/StringBuilder.append[ls]
+Ljava/lang/String.<init>[su]
+Ljava/lang/StringBuilder.append[su]
+Ljava/lang/String.append[ls]
+Ljava/lang/String.append[su]
+Ljava/lang/StringBuilder.<init>[su]
+Ljava/lang/StringBuilder.<init>[http]
+Ljava/lang/String.append[http]
